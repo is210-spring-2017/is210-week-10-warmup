@@ -51,9 +51,9 @@ a dictionary from a table of data.
 Specifications
 ^^^^^^^^^^^^^^
 
-#.  Create a file, ``task_01.py``.
+#.  Create a new notebook
 
-#   In ``task_01.py``, create a constant called ``GRADE_DATA`` that stores the
+#   Create a constant called ``GRADE_DATA`` that stores the
     following table, *Grades*,  as a **nested** dictionary.
 
     #.  The first level key of the dictionary is ``student`` which represents
